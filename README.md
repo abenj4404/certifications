@@ -1,9 +1,11 @@
-# Certs, Badges, etc.
+# My Certs, Badges, etc.
 
 The purpose of this repository is to house relevant certificates I've obtained from online professional development platforms. 
 
+
 BADGES:
 Python (Linkedin Skill Assessment)
+
 
 TECHNICAL CERTIFICATIONS COMPLETED:
 - Design Databases with PostgreSQL (CodeCademy)
