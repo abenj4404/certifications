@@ -19,5 +19,5 @@ TECHNICAL CERTIFICATIONS CURRENTLY IN-PROGRESS:
 - Build Python Web Apps with Flask (CodeCademy)
 
 
-RECENT LABS:
-- Working with AWS DevOps CI/CD Pipeline (A Cloud Guru)
+OTHER:
+- Lab: Working with AWS DevOps CI/CD Pipeline (A Cloud Guru)
